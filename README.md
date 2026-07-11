@@ -11,7 +11,7 @@ A retail company wants to understand shifting customer purchasing patterns acros
 ## 🧰 Tech Stack
 
 - **Python** (Pandas) — data cleaning & feature engineering
-- **MySQL** + **SQLAlchemy** — data warehousing & business-question queries
+- **MySQL**  — data warehousing & business-question queries
 - **Power BI** — interactive dashboard
 - **Jupyter Notebook**
 
